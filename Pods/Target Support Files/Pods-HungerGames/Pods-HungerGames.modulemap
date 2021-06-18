@@ -1,0 +1,6 @@
+framework module Pods_HungerGames {
+  umbrella header "Pods-HungerGames-umbrella.h"
+
+  export *
+  module * { export * }
+}
