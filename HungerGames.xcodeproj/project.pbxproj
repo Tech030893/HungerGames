@@ -25,6 +25,13 @@
 		18056426267756FE001F86B6 /* NotificationCenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18056425267756FE001F86B6 /* NotificationCenterViewController.swift */; };
 		182F79492677921700B606B9 /* foodmain.json in Resources */ = {isa = PBXBuildFile; fileRef = 182F79482677921700B606B9 /* foodmain.json */; };
 		182F794B2677936800B606B9 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182F794A2677936800B606B9 /* WelcomeViewController.swift */; };
+		183C6BDC267F5A3800D2442A /* FoodDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183C6BDB267F5A3800D2442A /* FoodDetailsViewController.swift */; };
+		1846A783267E029D0000DA9C /* FoodCategoriesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1846A782267E029D0000DA9C /* FoodCategoriesCollectionViewCell.swift */; };
+		1846A786267E05210000DA9C /* TopFoodCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1846A785267E05210000DA9C /* TopFoodCollectionViewCell.swift */; };
+		1846A788267E05330000DA9C /* RecommendedCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1846A787267E05330000DA9C /* RecommendedCollectionViewCell.swift */; };
+		1864A54E26807F37005A67D5 /* CategoriesDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1864A54D26807F37005A67D5 /* CategoriesDetailsViewController.swift */; };
+		1864A55026807F59005A67D5 /* RecommendedDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1864A54F26807F59005A67D5 /* RecommendedDetailsViewController.swift */; };
+		1864A55226808378005A67D5 /* CategoriesDetailsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1864A55126808378005A67D5 /* CategoriesDetailsTableViewCell.swift */; };
 		1865B9C12677AF1800D3D9B4 /* RecoverPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1865B9C02677AF1800D3D9B4 /* RecoverPasswordViewController.swift */; };
 		1865E9E7267A454300171E33 /* emptycart.json in Resources */ = {isa = PBXBuildFile; fileRef = 1865E9E6267A454300171E33 /* emptycart.json */; };
 		1865E9E9267A47BB00171E33 /* forgotpassword.json in Resources */ = {isa = PBXBuildFile; fileRef = 1865E9E8267A47BB00171E33 /* forgotpassword.json */; };
@@ -39,6 +46,9 @@
 		18C9E2452678CC79009437DD /* NeedHelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E2442678CC79009437DD /* NeedHelpViewController.swift */; };
 		18C9E2472678CC88009437DD /* TermsOfServicesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E2462678CC88009437DD /* TermsOfServicesViewController.swift */; };
 		18C9E2492678CC97009437DD /* PrivacyPolicyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E2482678CC97009437DD /* PrivacyPolicyViewController.swift */; };
+		18E5DA0D2683150C007F1982 /* ordernow.json in Resources */ = {isa = PBXBuildFile; fileRef = 18E5DA0C2683150C007F1982 /* ordernow.json */; };
+		18E5DA0F2683213C007F1982 /* NeedHelpTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E5DA0E2683213C007F1982 /* NeedHelpTableViewCell.swift */; };
+		18E5DA1126832661007F1982 /* NeedHelpModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E5DA1026832661007F1982 /* NeedHelpModel.swift */; };
 		B8219DFD9A05F2AF0EEC4E97 /* Pods_HungerGames.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF5168EBEC110F9871F3C314 /* Pods_HungerGames.framework */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +73,13 @@
 		18056425267756FE001F86B6 /* NotificationCenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCenterViewController.swift; sourceTree = "<group>"; };
 		182F79482677921700B606B9 /* foodmain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = foodmain.json; sourceTree = "<group>"; };
 		182F794A2677936800B606B9 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		183C6BDB267F5A3800D2442A /* FoodDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailsViewController.swift; sourceTree = "<group>"; };
+		1846A782267E029D0000DA9C /* FoodCategoriesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodCategoriesCollectionViewCell.swift; sourceTree = "<group>"; };
+		1846A785267E05210000DA9C /* TopFoodCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopFoodCollectionViewCell.swift; sourceTree = "<group>"; };
+		1846A787267E05330000DA9C /* RecommendedCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedCollectionViewCell.swift; sourceTree = "<group>"; };
+		1864A54D26807F37005A67D5 /* CategoriesDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesDetailsViewController.swift; sourceTree = "<group>"; };
+		1864A54F26807F59005A67D5 /* RecommendedDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedDetailsViewController.swift; sourceTree = "<group>"; };
+		1864A55126808378005A67D5 /* CategoriesDetailsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesDetailsTableViewCell.swift; sourceTree = "<group>"; };
 		1865B9C02677AF1800D3D9B4 /* RecoverPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecoverPasswordViewController.swift; sourceTree = "<group>"; };
 		1865E9E6267A454300171E33 /* emptycart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = emptycart.json; sourceTree = "<group>"; };
 		1865E9E8267A47BB00171E33 /* forgotpassword.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = forgotpassword.json; sourceTree = "<group>"; };
@@ -77,6 +94,9 @@
 		18C9E2442678CC79009437DD /* NeedHelpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeedHelpViewController.swift; sourceTree = "<group>"; };
 		18C9E2462678CC88009437DD /* TermsOfServicesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsOfServicesViewController.swift; sourceTree = "<group>"; };
 		18C9E2482678CC97009437DD /* PrivacyPolicyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyPolicyViewController.swift; sourceTree = "<group>"; };
+		18E5DA0C2683150C007F1982 /* ordernow.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ordernow.json; sourceTree = "<group>"; };
+		18E5DA0E2683213C007F1982 /* NeedHelpTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeedHelpTableViewCell.swift; sourceTree = "<group>"; };
+		18E5DA1026832661007F1982 /* NeedHelpModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeedHelpModel.swift; sourceTree = "<group>"; };
 		79D1B0091C97AB4EFE1CD85C /* Pods-HungerGames.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HungerGames.debug.xcconfig"; path = "Target Support Files/Pods-HungerGames/Pods-HungerGames.debug.xcconfig"; sourceTree = "<group>"; };
 		87B29A6A10BA4CDDF161AD59 /* Pods-HungerGames.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HungerGames.release.xcconfig"; path = "Target Support Files/Pods-HungerGames/Pods-HungerGames.release.xcconfig"; sourceTree = "<group>"; };
 		AF5168EBEC110F9871F3C314 /* Pods_HungerGames.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HungerGames.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -136,6 +156,7 @@
 		1805640D26774A24001F86B6 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				18E5DA1026832661007F1982 /* NeedHelpModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -189,6 +210,9 @@
 			children = (
 				1865B9C02677AF1800D3D9B4 /* RecoverPasswordViewController.swift */,
 				18753C882679F4D0009C1FB8 /* AddAddressViewController.swift */,
+				1864A54D26807F37005A67D5 /* CategoriesDetailsViewController.swift */,
+				183C6BDB267F5A3800D2442A /* FoodDetailsViewController.swift */,
+				1864A54F26807F59005A67D5 /* RecommendedDetailsViewController.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -200,8 +224,28 @@
 				186FF08D267907E200DF43FD /* mywallet.json */,
 				1865E9E6267A454300171E33 /* emptycart.json */,
 				1865E9E8267A47BB00171E33 /* forgotpassword.json */,
+				18E5DA0C2683150C007F1982 /* ordernow.json */,
 			);
 			path = "Lottie Files";
+			sourceTree = "<group>";
+		};
+		1846A784267E05070000DA9C /* Home Page */ = {
+			isa = PBXGroup;
+			children = (
+				1846A782267E029D0000DA9C /* FoodCategoriesCollectionViewCell.swift */,
+				1846A785267E05210000DA9C /* TopFoodCollectionViewCell.swift */,
+				1846A787267E05330000DA9C /* RecommendedCollectionViewCell.swift */,
+			);
+			path = "Home Page";
+			sourceTree = "<group>";
+		};
+		1846A789267E05410000DA9C /* Deals & Offers Page */ = {
+			isa = PBXGroup;
+			children = (
+				188E802E267B391B0076BE13 /* EverydayOfferCollectionViewCell.swift */,
+				188E8030267B392C0076BE13 /* PaymentOfferCollectionViewCell.swift */,
+			);
+			path = "Deals & Offers Page";
 			sourceTree = "<group>";
 		};
 		18753C8A2679FA38009C1FB8 /* Cells */ = {
@@ -226,6 +270,8 @@
 			isa = PBXGroup;
 			children = (
 				18753C8B2679FA5D009C1FB8 /* MyAddressesTableViewCell.swift */,
+				1864A55126808378005A67D5 /* CategoriesDetailsTableViewCell.swift */,
+				18E5DA0E2683213C007F1982 /* NeedHelpTableViewCell.swift */,
 			);
 			path = "TableView Cell";
 			sourceTree = "<group>";
@@ -233,8 +279,8 @@
 		188E802D267B38E10076BE13 /* CollectionView Cell */ = {
 			isa = PBXGroup;
 			children = (
-				188E802E267B391B0076BE13 /* EverydayOfferCollectionViewCell.swift */,
-				188E8030267B392C0076BE13 /* PaymentOfferCollectionViewCell.swift */,
+				1846A789267E05410000DA9C /* Deals & Offers Page */,
+				1846A784267E05070000DA9C /* Home Page */,
 			);
 			path = "CollectionView Cell";
 			sourceTree = "<group>";
@@ -337,6 +383,7 @@
 				1865E9E9267A47BB00171E33 /* forgotpassword.json in Resources */,
 				1805640226774A12001F86B6 /* Assets.xcassets in Resources */,
 				182F79492677921700B606B9 /* foodmain.json in Resources */,
+				18E5DA0D2683150C007F1982 /* ordernow.json in Resources */,
 				186FF08E267907E200DF43FD /* mywallet.json in Resources */,
 				1805640026774A0D001F86B6 /* Main.storyboard in Resources */,
 			);
@@ -400,17 +447,26 @@
 				1805641926774AEA001F86B6 /* ProfileViewController.swift in Sources */,
 				1805641E26774B4C001F86B6 /* OrderHistoryViewController.swift in Sources */,
 				1805641426774A7A001F86B6 /* RegisterViewController.swift in Sources */,
+				1864A54E26807F37005A67D5 /* CategoriesDetailsViewController.swift in Sources */,
 				1805641C26774B34001F86B6 /* DealsOffersViewController.swift in Sources */,
+				18E5DA0F2683213C007F1982 /* NeedHelpTableViewCell.swift in Sources */,
+				1846A783267E029D0000DA9C /* FoodCategoriesCollectionViewCell.swift in Sources */,
 				180563FD26774A0D001F86B6 /* HomeViewController.swift in Sources */,
 				18753C892679F4D0009C1FB8 /* AddAddressViewController.swift in Sources */,
+				1864A55226808378005A67D5 /* CategoriesDetailsTableViewCell.swift in Sources */,
 				1805642426774BDB001F86B6 /* MenuViewController.swift in Sources */,
 				1805642226774BBF001F86B6 /* CartViewController.swift in Sources */,
+				18E5DA1126832661007F1982 /* NeedHelpModel.swift in Sources */,
 				180563F926774A0D001F86B6 /* AppDelegate.swift in Sources */,
+				1846A788267E05330000DA9C /* RecommendedCollectionViewCell.swift in Sources */,
 				1805642026774B81001F86B6 /* HungerGamesWalletViewController.swift in Sources */,
 				18C9E2492678CC97009437DD /* PrivacyPolicyViewController.swift in Sources */,
+				1864A55026807F59005A67D5 /* RecommendedDetailsViewController.swift in Sources */,
 				18C9E23F2678CB30009437DD /* MyAddressesViewController.swift in Sources */,
+				1846A786267E05210000DA9C /* TopFoodCollectionViewCell.swift in Sources */,
 				188E802F267B391B0076BE13 /* EverydayOfferCollectionViewCell.swift in Sources */,
 				180563FB26774A0D001F86B6 /* SceneDelegate.swift in Sources */,
+				183C6BDC267F5A3800D2442A /* FoodDetailsViewController.swift in Sources */,
 				18C9E2472678CC88009437DD /* TermsOfServicesViewController.swift in Sources */,
 				188E8031267B392C0076BE13 /* PaymentOfferCollectionViewCell.swift in Sources */,
 				18753C8C2679FA5D009C1FB8 /* MyAddressesTableViewCell.swift in Sources */,
@@ -565,6 +621,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = HungerGames/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -584,6 +641,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = HungerGames/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
